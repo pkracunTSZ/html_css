@@ -1,0 +1,13 @@
+.pLink {
+    background-color: green;
+}
+.dLink {
+    background-color: red;
+}
+.tLink {
+    background-color: yellow;
+}
+
+a:hover{
+    background-color: transparent;
+}
