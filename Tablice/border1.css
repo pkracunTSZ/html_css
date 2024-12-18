@@ -1,0 +1,9 @@
+td {
+    border: 5px dashed pink;
+    vertical-align: bottom;
+    text-align: right;
+    height: 50px;
+}
+table {
+    border-collapse: collapse;
+}
