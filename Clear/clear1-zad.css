@@ -1,0 +1,14 @@
+#div1 {
+width: 400px;
+    height: 400px;
+border: 2px #ccc solid;
+}
+#div2 {
+    clear: both;
+    width: 400px;
+    height: 400px;
+    border: 2px #ccc solid;
+}
+#p1 {
+float: left;
+}
