@@ -1,0 +1,13 @@
+.klasa1 {
+    border: 1px solid black;
+    outline-width: thick;
+    outline-style: double;
+    outline-color: red;
+}
+.klasa2 {
+    border: 1px solid black;
+    outline-width: 3px;
+    outline-style: double;
+    outline-color: green;
+
+}

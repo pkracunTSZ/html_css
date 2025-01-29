@@ -1,0 +1,5 @@
+.outline2 {
+    border: 1px solid black;
+    outline-style: ridge;
+    outline-color: red;
+}

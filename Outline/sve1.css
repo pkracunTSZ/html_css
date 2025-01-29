@@ -1,0 +1,12 @@
+.sveklasa {
+    width: 500px;
+    padding: 40px 10px;
+    border-width: 10px 10px;
+    margin: 25px 20px;
+    border-color: aqua;
+    border-style: dashed;
+    height: 300px;
+    outline-color: gold;
+    outline-style: dotted;
+
+}
